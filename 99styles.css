@@ -1,0 +1,21 @@
+body {
+    background-color: silver);
+    padding-top: 2em;
+    text-align: center;
+}
+
+h1 {
+    color: maroon;
+}
+
+.friend {
+    color: purple
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+p {
+    color: rebeccapurple;
+}
